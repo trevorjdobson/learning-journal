@@ -1,0 +1,2 @@
+# Day 1
+So far 301 has started off fast with some new concepts.  jQuery being the biggest new concept.  It can be confusing at times however I can see how it will be way easier to use.  The concept of reactive web design is another new one for us.  I am really excited to become proficient at it.  I struggle with CSS so I know this one will be a challenge for me however it will be a fun challenge.  Scaling based off the viewport is really cool to see it work.
