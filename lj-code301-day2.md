@@ -1,0 +1,2 @@
+#Week 2
+This week continued at a fast pace like last.  We learned some new concepts again.  First we started with handling events using JQ.  It is a little confusing however it definitly cleans up the code and is a lot simpler.  We then went over handlebars and arrow functions.  The handlebars was complicated and I didn't really understand it until I got my hands on it and tried it out.  The arrow function was pretty simple, I just have to remember that it can't be used with "this".
