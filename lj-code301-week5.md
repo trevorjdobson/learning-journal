@@ -1,0 +1,3 @@
+# Week 5
+
+This week we started working with the database and manipulatiing it using SQL.  We created queries to get data and post it.  We also created functions to update and delete records in the database.  Once again half the battle is just making sure your machine is working and the other half of the battle is actually writing the code.  I found that SQL language is very particular and you have to definitly watch the spaces and commas etc.
